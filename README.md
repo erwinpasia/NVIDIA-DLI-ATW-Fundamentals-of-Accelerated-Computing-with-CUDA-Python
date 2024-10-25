@@ -17,7 +17,7 @@ GPU-accelerated Python applications with CUDA and Numba:
 
 <p style="text-align:center">
     <a href="https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-AC-02+V1" target="_blank">
-    <img src="images/Workshop_Outline_FAC_CUDA_Python.png" alt="NVIDIA-DLI-Fundamentals of Accelerated Computing with CUDA Python"  />
+    <img src="nvidia_cuda_portfolio/images/Workshop_Outline_FAC_CUDA_Python.png" alt="NVIDIA-DLI-Fundamentals of Accelerated Computing with CUDA Python"  />
     </a>
 </p>
 
@@ -25,6 +25,6 @@ GPU-accelerated Python applications with CUDA and Numba:
 
 <p style="text-align:center">
     <a href="https://learn.nvidia.com/certificates?id=bbfe2cfa7cee4ec995553febfcd1a033" target="_blank">
-    <img src="images/CC_FAC_CUDA_Python.png" alt="NVIDIA-DLI-Fundamentals of Accelerated Computing with CUDA Python"  />
+    <img src="nvidia_cuda_portfolio/images/CC_FAC_CUDA_Python.png" alt="NVIDIA-DLI-Fundamentals of Accelerated Computing with CUDA Python"  />
     </a>
 </p>
