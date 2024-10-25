@@ -1,4 +1,4 @@
-# [NVIDIA DLI - Technical Workshop for Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-AC-02+V1) - COMPLETED!
+# [NVIDIA DLI - Advanced Technical Workshop: Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-AC-02+V1) - COMPLETED!
 
 
 **The Learning Objectives are:**
