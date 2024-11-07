@@ -54,15 +54,12 @@ Participants will work with the CUDA Toolkit, which provides essential tools suc
 - The CUDA runtime API for managing GPU resources.
 - Profiling tools like `nvprof` for performance analysis.
 
-## End-to-End Workflow Acceleration:
-By the end of the course, participants will be able to build fully functional, end-to-end workflows that leverage GPU acceleration at every stage—from data processing to algorithm execution. This includes:
-- Accelerating linear algebra operations originally designed for CPUs.
-- Implementing Monte Carlo simulations using random number generation on GPUs.
-
 ## Best Practices for Refactoring CPU Workflows:
 The course emphasizes best practices for refactoring existing CPU-based workflows into GPU-based ones:
 - Identify computational bottlenecks where GPUs can provide significant speedups.
 - Use Numba’s decorators to accelerate existing NumPy code without rewriting entire applications.
+- Accelerating linear algebra operations originally designed for CPUs.
+- Implementing Monte Carlo simulations using random number generation on GPUs.
 
 ## Comparison Between CPU vs. GPU Workflows:
 
